@@ -4,4 +4,4 @@ Período: 1º
 Curso: Sistema de Informaç
 Instituição: UniRios
 
-site implementado com HTML e CSS, utilizando a biblioteca Jquery.
+site implementado com HTML e CSS, utilizando a bíblioteca Jquery.
